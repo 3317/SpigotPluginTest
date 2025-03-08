@@ -1,0 +1,4 @@
+name: irozuki_test
+version: '0.0-SNAPSHOT'
+main: jp.irozuki.test.Main
+api-version: '1.21'
